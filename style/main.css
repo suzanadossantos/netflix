@@ -94,10 +94,23 @@ header .container nav a:hover{
     width: 70%;
 }
 
+h3.bloco{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3.bloco:hover{
+    color: #E50914;
+    transition: 1ms;
+}
+
 .box-filme{
-    height: 100%;
-    width: 100%;
+    height: 70%;
+    width: 70%;
     display: block;
+    margin: 10px;
 }
 
 .carrossel-filmes{
