@@ -14,7 +14,7 @@
 
 body{
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
 }
 
@@ -46,7 +46,7 @@ header .container nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background-image: linear-gradient(rgba(0, 0, 0) , rgba(0, 0, 0, 0.048) 100%), url(img/homem-aranha2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0) , rgba(0, 0, 0, 0) 100%), url(../img/homem-aranha2.jpg);
     background-size: cover;
     height: 400px;
     display: flex;
@@ -92,4 +92,14 @@ header .container nav a:hover{
 
 .filme-principal .container{
     width: 70%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrossel-filmes{
+    margin-top: 5px;
 }
