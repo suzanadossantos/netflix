@@ -21,6 +21,9 @@ O projeto foi realizado no curso da Digital Innovation One.
 - CSS
 - HTML
 - JavaScript
-- 
 
-### Mais informações
+### Links
+
+- <a href= "https://www.dio.me/" target="_blank">Digital Innovation One</a>
+- <a href= "https://www.dio.me/" target="_blank">Meu certificado</a>
+- <a href= "https://www.linkedin.com/in/suzana-dos-santos-dev/" target="_blank">Linkedin</a>
