@@ -21,6 +21,7 @@ O projeto foi realizado no curso da Digital Innovation One.
 - CSS
 - HTML
 - JavaScript
+- Plugins JQuery
 
 ### Links
 
