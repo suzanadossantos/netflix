@@ -6,15 +6,15 @@ Interface da Netflix
  
 O projeto foi realizado no curso da Digital Innovation One.
 
-### Vídoes e Imagens
+### Imagens
 
-#### Tela de Login
+#### Responsivo
 
-![Thumbnail:](https://github.com/suzanadossantos/spidercord/blob/main/imagens_projeto/imagem1.png)
+![Thumbnail:](https://github.com/suzanadossantos/netflix/blob/main/projeto/imagem1.png)
 
-#### Tela do chat
+###
 
-![Thumbnail:](https://github.com/suzanadossantos/spidercord/blob/main/imagens_projeto/imagem2.png)
+![Thumbnail:](https://github.com/suzanadossantos/netflix/blob/main/projeto/imagem2.png)
 
 ### Ferramentas
  
