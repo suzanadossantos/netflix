@@ -1,6 +1,6 @@
 # Netflix 💻
 
-Interface da Netflix 
+Interface do Netflix 
  
 ### Criação
  
